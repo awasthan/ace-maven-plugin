@@ -406,7 +406,9 @@
 
 	</distributionManagement>
 	<scm>
-		<connection>scm:svn:https://DESKTOP-S0JOEKP/svn/SourceCode/ace-maven-plugin/trunk/ace-maven-plugin</connection>
+                <url>git@github.com:awasthan/ace-maven-plugin</url>
+		<connection>scm:git:git@github.com:awasthan/ace-maven-plugin</connection>
+            <tag>HEAD</tag>
 	</scm>
 	<version>11.15-SNAPSHOT</version>
 </project>
