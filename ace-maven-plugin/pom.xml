@@ -181,7 +181,7 @@
 					</dependency>
 				</dependencies>
 				<configuration>
-					<workingDirectory>/root/ace-maven-plugin/releases/ace-maven-plugin</workingDirectory>
+					<workingDirectory>/opt/releases/ace-maven-plugin</workingDirectory>
 				</configuration>
 			</plugin>
 			<plugin>
