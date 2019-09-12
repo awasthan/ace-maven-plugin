@@ -408,7 +408,7 @@
 	<scm>
                 <url>git@github.com:awasthan/ace-maven-plugin</url>
 		<connection>scm:git:git@github.com:awasthan/ace-maven-plugin</connection>
-            <tag>HEAD</tag>
+            <tag>ace-maven-plugin-11.18</tag>
 	</scm>
-	<version>11.18-SNAPSHOT</version>
+	<version>11.18</version>
 </project>
