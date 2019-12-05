@@ -224,7 +224,7 @@ public class ValidateConfigurablePropertiesMojo extends AbstractMojo {
                 
                 // Updated by Anand Awasthi
                 String outputBarFile = new File(barName.getParent(), propFile.getName().replaceAll("properties$", "bar")).toString();
-                outputBarFile = outputBarFile.replaceAll(".bar", "_"+versionString+".bar");
+                outputBarFile = outputBarFile.replaceAll("\\.bar", "_"+versionString+".bar");
                 params.add(outputBarFile);
 
                 // (Optional) The path to one of the following resources:
