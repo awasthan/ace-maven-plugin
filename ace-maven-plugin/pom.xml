@@ -331,7 +331,7 @@
 		<repository>
 			<id>central</id>
 			<name>Central Repository</name>
-			<url>http://9.204.170.13:8081/repository/releases/</url>
+			<url>http://9.30.180.133:8081/repository/releases/</url>
 			<snapshots>
 				<enabled>false</enabled>
 			</snapshots>
@@ -339,7 +339,7 @@
 		<repository>
 			<id>nexus-release</id>
 			<name>Corporate Repository</name>
-			<url>http://9.204.170.13:8081/repository/releases/</url>
+			<url>http://9.30.180.133:8081/repository/releases/</url>
 			<snapshots>
 				<enabled>false</enabled>
 			</snapshots>
@@ -362,7 +362,7 @@
 		<pluginRepository>
 			<id>central</id>
 			<name>Central Repository</name>
-			<url>http://9.204.170.13:8081/repository/releases/</url>
+			<url>http://9.30.180.133:8081/repository/releases/</url>
 			<snapshots>
 				<enabled>false</enabled>
 			</snapshots>
@@ -370,7 +370,7 @@
 		<pluginRepository>
 			<id>nexus-release</id>
 			<name>Corporate Repository</name>
-			<url>http://9.204.170.13:8081/repository/releases/</url>
+			<url>http://9.30.180.133:8081/repository/releases/</url>
 			<snapshots>
 				<enabled>false</enabled>
 			</snapshots>
@@ -400,7 +400,7 @@
 		<repository>
 			<id>releases</id>
 			<name>Corporate Repository</name>
-			<url>http://9.204.170.13:8081/repository/releases/</url>
+			<url>http://9.30.180.133:8081/repository/releases/</url>
 			<layout>default</layout>
 		</repository>
 
