@@ -87,7 +87,8 @@ public class ValidateBarBuildWorkspaceMojo extends AbstractMojo {
         	// Also ignore other text files
         	if (".metadata".equals(projectDirectory.getName()) 
         			||projectDirectory.getName().startsWith(".")
-        			||projectDirectory.isFile()) {
+        			||projectDirectory.isFile()
+                    ||projectDirectory.getName().endsWith("@tmp")) {
                 continue;
             }
 
